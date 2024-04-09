@@ -1,0 +1,70 @@
+{
+    "UserTable": {
+      "columns": [
+        "UserID (Primary Key)",
+        "FirstName",
+        "LastName",
+        "Username",
+        "email",
+        "Password",
+        "UserRoleId ",
+        "LoggedToken",
+        "MobileNumber",
+        "CreatedAt",
+        "ModifiedAt"
+
+      ]
+    },
+    "UserRole":{
+      "columns":[
+        "RoleId (Primary Key)",
+        "RoleName (Superadmin, Admin, User)",
+        "CreatedAt",
+        "ModifiedAt"
+      ]
+    },
+    "BusDetails": {
+      "columns": [
+        "BusID (Primary Key)",
+        "BusNumber",
+        "UserID (Foreign Key referencing Admin table)",
+        "DriverNumber",
+        "DriverName",
+        "CreatedAt",
+        "ModifiedAt"
+      ]
+    },
+    "BusStop": {
+      "columns": [
+        "StopID (Primary Key)",
+        "StopName",
+        "Latitude",
+        "Longitude",
+        "CreatedAt",
+        "ModifiedAt"
+      ]
+    },
+    "RouteDetails": {
+      "columns": [
+        "RouteID (Primary Key)",
+        "RouteName",
+        "StopID (Foreign Key referencing BusStop table)",
+        "StopSequence",
+        "CreatedAt",
+        "ModifiedAt"
+      ]
+    },
+    "ScheduleTable": {
+      "columns": [
+        "ScheduleID (Primary Key)",
+        "BusID (Foreign Key referencing Bus table)",
+        "RouteID (Foreign Key referencing Route table)",
+        "StartTime",
+        "EndTime",
+        "DayOfWeek",
+        "CreatedAt",
+        "ModifiedAt"
+      ]
+    }
+  }
+  

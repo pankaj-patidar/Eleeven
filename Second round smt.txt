@@ -1,0 +1,23 @@
+Shell bash command
+Connectivity btw linux servers nd machines - using ssh 
+pass and continue - continue forces the loop to start at the next iteration
+modules nd package - a module is a piece of code that may be built upon, a package is a collection of modules
+self usage -  to represent the instance of the class
+init   - an instance method that initializes a newly created object
+slicing - the extraction of a part of a string, list, or tuple
+database - 
+code optimization
+rpa - ?
+API's
+orm
+django signals - allow certain senders to notify a set of receivers that some action has taken place
+
+security for API's
+flsk and fastapi
+versioning
+real time data processing - Apache Kafka , Apache spark , RabbitMQ , flask -socket IO,
+async in pythn - Asyncio is a Python library that's used to write concurrent code with async and await syntax
+python with non python system - Python, is to use py2exe to package it into an executable
+task in less timeline
+http and https
+law of segment

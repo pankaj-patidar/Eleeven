@@ -1,0 +1,45 @@
+AI - ML projects
+
+1. https://github.com/Yash-Dave/Urban-Yogi/tree/main   - Yoga Pose Detection
+2. https://github.com/Deepanshu1008/Colour-Detection-Project - Real time color detection
+3. https://github.com/KamiV2/Water-Body-Finder - Water Body finder
+4. https://github.com/jbossdemocentral/edge-to-cloud-data-pipelines
+5.https://github.com/ryankbr/AI-ggie-News
+6.https://github.com/nrsharip/ai-genetic-algorithm-snake
+7. https://github.com/ravi-prakash1907/dyPixa
+8. https://github.com/ayushreal/Signature-recognition
+9. https://github.com/anik8gupta/Toxic_Speech_Classification
+10. https://github.com/Sajidnsr/ML_Project__Rental_Bike_Sharing
+11. https://github.com/pdivya-mca/Customer-Conversion-Prediction/tree/main
+12. https://github.com/tardiobscurus/unCAPTCHA
+
+React Projects 
+
+1. https://github.com/johnuberbacher/invoice-generator
+2. https://github.com/Ujjalzaman/Easy-Consulting-react?tab=readme-ov-file
+3. https://github.com/shsarv/TravelYaari-react
+4. https://github.com/Coderberg/web-developer-tools
+5. https://github.com/devmahmud/RecipeFinder/tree/master
+6. https://github.com/shubhankar-shandilya-india/Cryptoverse
+7. https://github.com/imhardikdesai/Resume-Builder
+8. https://github.com/bhavesh1235/React-Chat-App
+9. https://github.com/Manoj-hc/News-Application/tree/main
+10. https://github.com/devmahmud/react-tech-shop
+11. https://github.com/kaanayyildiz/benfolio
+12. https://github.com/zorgonide/movieflix
+13. https://github.com/prashant5025/react_admin_template
+
+Python/Node js Projects
+
+1. https://github.com/Shubh0405/classmanager-student-teacher-portal/tree/master
+2. https://github.com/pratik0197/Ticket-Booking
+3. https://github.com/mannasourav17/Second-Hand-Seller
+4. https://github.com/Soumya-Sharma-20/ECommerce-Website-using-Django
+5. https://github.com/BORIS552/NotesApp
+6. https://github.com/arturobp3/PollsApp
+7. https://github.com/pranavajitnair/LIfe-Hospital-management
+8. https://github.com/itisDouglas/PythonWebDevBlog
+9. https://github.com/kevoj/nodetomic-api
+10. https://github.com/codenamics/Voting-App
+11. https://github.com/EntireNewsProject/NodeJS-Backend
+12.https://github.com/stefanluks/Niceplanet-Backend
